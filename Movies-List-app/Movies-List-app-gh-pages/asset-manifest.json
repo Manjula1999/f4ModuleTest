@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movies-List-app/static/css/main.dae28b8f.css",
+    "main.js": "/Movies-List-app/static/js/main.3abe922a.js",
+    "static/js/453.5c70d125.chunk.js": "/Movies-List-app/static/js/453.5c70d125.chunk.js",
+    "index.html": "/Movies-List-app/index.html",
+    "main.dae28b8f.css.map": "/Movies-List-app/static/css/main.dae28b8f.css.map",
+    "main.3abe922a.js.map": "/Movies-List-app/static/js/main.3abe922a.js.map",
+    "453.5c70d125.chunk.js.map": "/Movies-List-app/static/js/453.5c70d125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dae28b8f.css",
+    "static/js/main.3abe922a.js"
+  ]
+}
